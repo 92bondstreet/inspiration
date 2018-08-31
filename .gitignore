@@ -186,3 +186,6 @@ exports
 tmp-*
 
 coverage
+
+# inspiration
+index.html
