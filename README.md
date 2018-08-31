@@ -20,6 +20,7 @@
 * [High-touch leadership in a fully-remote culture](https://blog.gitprime.com/high-touch-leadership-remote-culture/)
 * [Why We (Still) Believe in Working Remotely](https://stackoverflow.blog/2013/02/01/why-we-still-believe-in-working-remotely/)
 * [What is work ethic?](https://hackernoon.com/what-is-work-ethic-40cd0c637976)
+* [Remote only](https://www.remoteonly.org)
 
 ## For Developers: Software Craftspersonship, Teamwork, Technical Debt
 
